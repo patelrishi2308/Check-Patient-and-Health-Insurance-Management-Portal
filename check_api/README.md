@@ -1,4 +1,4 @@
-# Vydhya API Documentation
+# CHECK API Documentation
 <hr/>
 
 ## Steps for Installing FastAPI
