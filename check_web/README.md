@@ -1,4 +1,4 @@
-# vydhya_web
+# CHECK_web
 
 ## This is the web app for the Vydhya project for our course B565 at Indiana University.
 
@@ -13,7 +13,7 @@ yarn start
 
 ## Team Members
 
-- [Janmejay Purohit](https://github.iu.edu/jpurohit)
-- Jake
-- Keerthana
-- Bhanu
+- Rishi
+- Rashmitha
+- Harshitha
+- Zane
