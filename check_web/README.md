@@ -13,7 +13,7 @@ yarn start
 
 ## Team Members
 
-- [Janmejay Purohit](https://github.iu.edu/jpurohit)
-- Jake
-- Keerthana
-- Bhanu
+- Rishi
+- Rashmitha
+- Harshitha
+- Zane
