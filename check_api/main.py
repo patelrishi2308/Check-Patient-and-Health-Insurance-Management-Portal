@@ -53,11 +53,11 @@ def create_tables():  # new
 
 
 def start_application():
-    app = FastAPI(title="Vydhya", version="v1")
+    app = FastAPI(title="CHECK", version="v1")
     origins = [
         "http://localhost:8000",
         "http://localhost:3000",
-        "https://vydhya.netlify.app/",
+        "https://CHECK.netlify.app/",
         "http://localhost",
         "http://localhost:8080",
     ]
