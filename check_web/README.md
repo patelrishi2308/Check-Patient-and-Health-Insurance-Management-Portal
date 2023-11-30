@@ -1,6 +1,6 @@
 # CHECK_web
 
-## This is the web app for the Vydhya project for our course B565 at Indiana University.
+## This is the web app for the CHECK project for our course B565 at Indiana University.
 
 ## Getting started
 

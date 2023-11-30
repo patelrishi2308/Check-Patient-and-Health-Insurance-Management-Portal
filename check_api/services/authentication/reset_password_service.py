@@ -28,12 +28,12 @@ class ResetPasswordServices:
                          "reset_expiry" : expiry}
         # logging.info(f'reset_code: {reset_code, expiry}')
         
-        subject = ' Reset Password for Vydhya Account'
+        subject = ' Reset Password for Check Account'
         body = f'<p> Dear User,</p> \
                 <p> Your reset code is {reset_code}. <br/>\
                 Do not share your password.</p>\
                 Regards, <br> \
-                <i>Vydhya team</i> \
+                <i>Check team</i> \
                 '
         # body = {'title' : 'You have requested for reset password',
         #         'name' : 'The code to reset your password is: {}'.format(reset_code)}
